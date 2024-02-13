@@ -1,0 +1,20 @@
+seed: 252
+SLOW_MULTIPLIER: 1
+
+
+network:
+  defPort: 30306
+  routing_table_size: 25
+
+mining:
+  block_time: 5 
+  block_size: 20
+
+
+
+nodes:
+  signers: 5
+  node_count: 1000
+  validators: 500
+  balance: 200000000000000000000  #0xad78ebc5ac6200000
+
