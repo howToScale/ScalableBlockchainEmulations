@@ -13,8 +13,8 @@ mining:
 
 
 nodes:
-  signers: 5
-  node_count: 1000
-  validators: 500
+  signers: 50
+  node_count: 750
+  validators: 150
   balance: 200000000000000000000  #0xad78ebc5ac6200000
 
